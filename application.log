@@ -1,0 +1,81 @@
+2020-10-19 02:36:34,116  INFO [main] BDDStyledUtils:19 - ****************************** starting POST test case *****************************************
+2020-10-19 02:36:39,177  INFO [main] BDDStyledUtils:35 - ****************************** ending POST test case *****************************************
+2020-10-19 02:36:39,194  INFO [main] BDDStyledUtils:39 - ****************************** starting GET test case *****************************************
+2020-10-19 02:36:40,760  INFO [main] BDDStyledUtils:54 - ****************************** ending GET test case *****************************************
+2020-10-19 02:36:40,773  INFO [main] BDDStyledUtils:58 - ****************************** starting PUT test case *****************************************
+2020-10-19 02:36:43,153  INFO [main] BDDStyledUtils:39 - ****************************** starting GET test case *****************************************
+2020-10-19 02:36:44,629  INFO [main] BDDStyledUtils:54 - ****************************** ending GET test case *****************************************
+2020-10-19 02:36:44,630  INFO [main] BDDStyledUtils:80 - ****************************** ending PUT test case *****************************************
+2020-10-19 02:36:44,646  INFO [main] BDDStyledUtils:85 - ****************************** starting DELETE test case *****************************************
+2020-10-19 02:36:46,339  INFO [main] BDDStyledUtils:101 - ****************************** ending DELETE test case *****************************************
+2020-10-19 02:36:46,937 DEBUG [pool-2-thread-1] cache:44 - Couldn't find template in cache for "freemarker/default.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-19 02:36:46,941 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/default_en_GB.ftl"): Not found
+2020-10-19 02:36:46,945 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/default_en.ftl"): Not found
+2020-10-19 02:36:46,946 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/default.ftl"): Found
+2020-10-19 02:36:46,947 DEBUG [pool-2-thread-1] cache:44 - Loading template for "freemarker/default.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/puven/.m2/repository/net/serenity-bdd/serenity-report-resources/2.0.91/serenity-report-resources-2.0.91.jar!/freemarker/default.ftl"
+2020-10-19 02:36:47,366 DEBUG [pool-2-thread-1] cache:44 - Couldn't find template in cache for "freemarker/libraries/favicon.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-19 02:36:47,370 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/favicon_en_GB.ftl"): Not found
+2020-10-19 02:36:47,372 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/favicon_en.ftl"): Not found
+2020-10-19 02:36:47,373 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/favicon.ftl"): Found
+2020-10-19 02:36:47,373 DEBUG [pool-2-thread-1] cache:44 - Loading template for "freemarker/libraries/favicon.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/puven/.m2/repository/net/serenity-bdd/serenity-report-resources/2.0.91/serenity-report-resources-2.0.91.jar!/freemarker/libraries/favicon.ftl"
+2020-10-19 02:36:47,376 DEBUG [pool-2-thread-1] cache:44 - Couldn't find template in cache for "freemarker/libraries/common.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-19 02:36:47,378 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/common_en_GB.ftl"): Not found
+2020-10-19 02:36:47,380 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/common_en.ftl"): Not found
+2020-10-19 02:36:47,381 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/common.ftl"): Found
+2020-10-19 02:36:47,381 DEBUG [pool-2-thread-1] cache:44 - Loading template for "freemarker/libraries/common.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/puven/.m2/repository/net/serenity-bdd/serenity-report-resources/2.0.91/serenity-report-resources-2.0.91.jar!/freemarker/libraries/common.ftl"
+2020-10-19 02:36:47,384 DEBUG [pool-2-thread-1] cache:44 - Couldn't find template in cache for "freemarker/libraries/font-awesome.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-19 02:36:47,385 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/font-awesome_en_GB.ftl"): Not found
+2020-10-19 02:36:47,387 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/font-awesome_en.ftl"): Not found
+2020-10-19 02:36:47,388 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/font-awesome.ftl"): Found
+2020-10-19 02:36:47,389 DEBUG [pool-2-thread-1] cache:44 - Loading template for "freemarker/libraries/font-awesome.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/puven/.m2/repository/net/serenity-bdd/serenity-report-resources/2.0.91/serenity-report-resources-2.0.91.jar!/freemarker/libraries/font-awesome.ftl"
+2020-10-19 02:36:47,391 DEBUG [pool-2-thread-1] cache:44 - Couldn't find template in cache for "freemarker/libraries/jquery.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-19 02:36:47,393 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/jquery_en_GB.ftl"): Not found
+2020-10-19 02:36:47,395 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/jquery_en.ftl"): Not found
+2020-10-19 02:36:47,396 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/jquery.ftl"): Found
+2020-10-19 02:36:47,397 DEBUG [pool-2-thread-1] cache:44 - Loading template for "freemarker/libraries/jquery.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/puven/.m2/repository/net/serenity-bdd/serenity-report-resources/2.0.91/serenity-report-resources-2.0.91.jar!/freemarker/libraries/jquery.ftl"
+2020-10-19 02:36:47,399 DEBUG [pool-2-thread-1] cache:44 - Couldn't find template in cache for "freemarker/libraries/chartist.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-19 02:36:47,400 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/chartist_en_GB.ftl"): Not found
+2020-10-19 02:36:47,401 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/chartist_en.ftl"): Not found
+2020-10-19 02:36:47,402 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/chartist.ftl"): Found
+2020-10-19 02:36:47,403 DEBUG [pool-2-thread-1] cache:44 - Loading template for "freemarker/libraries/chartist.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/puven/.m2/repository/net/serenity-bdd/serenity-report-resources/2.0.91/serenity-report-resources-2.0.91.jar!/freemarker/libraries/chartist.ftl"
+2020-10-19 02:36:47,405 DEBUG [pool-2-thread-1] cache:44 - Couldn't find template in cache for "freemarker/libraries/treeview.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-19 02:36:47,406 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/treeview_en_GB.ftl"): Not found
+2020-10-19 02:36:47,408 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/treeview_en.ftl"): Not found
+2020-10-19 02:36:47,410 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/treeview.ftl"): Found
+2020-10-19 02:36:47,410 DEBUG [pool-2-thread-1] cache:44 - Loading template for "freemarker/libraries/treeview.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/puven/.m2/repository/net/serenity-bdd/serenity-report-resources/2.0.91/serenity-report-resources-2.0.91.jar!/freemarker/libraries/treeview.ftl"
+2020-10-19 02:36:47,412 DEBUG [pool-2-thread-1] cache:44 - Couldn't find template in cache for "freemarker/libraries/datatables.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-19 02:36:47,414 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/datatables_en_GB.ftl"): Not found
+2020-10-19 02:36:47,416 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/datatables_en.ftl"): Not found
+2020-10-19 02:36:47,417 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/datatables.ftl"): Found
+2020-10-19 02:36:47,417 DEBUG [pool-2-thread-1] cache:44 - Loading template for "freemarker/libraries/datatables.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/puven/.m2/repository/net/serenity-bdd/serenity-report-resources/2.0.91/serenity-report-resources-2.0.91.jar!/freemarker/libraries/datatables.ftl"
+2020-10-19 02:36:47,421 DEBUG [pool-2-thread-1] cache:44 - Couldn't find template in cache for "freemarker/libraries/css.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-19 02:36:47,423 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/css_en_GB.ftl"): Not found
+2020-10-19 02:36:47,426 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/css_en.ftl"): Not found
+2020-10-19 02:36:47,428 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/css.ftl"): Found
+2020-10-19 02:36:47,429 DEBUG [pool-2-thread-1] cache:44 - Loading template for "freemarker/libraries/css.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/puven/.m2/repository/net/serenity-bdd/serenity-report-resources/2.0.91/serenity-report-resources-2.0.91.jar!/freemarker/libraries/css.ftl"
+2020-10-19 02:36:47,432 DEBUG [pool-2-thread-1] cache:44 - Couldn't find template in cache for "freemarker/libraries/jquery-ui.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-19 02:36:47,433 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/jquery-ui_en_GB.ftl"): Not found
+2020-10-19 02:36:47,434 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/jquery-ui_en.ftl"): Not found
+2020-10-19 02:36:47,435 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/jquery-ui.ftl"): Found
+2020-10-19 02:36:47,435 DEBUG [pool-2-thread-1] cache:44 - Loading template for "freemarker/libraries/jquery-ui.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/puven/.m2/repository/net/serenity-bdd/serenity-report-resources/2.0.91/serenity-report-resources-2.0.91.jar!/freemarker/libraries/jquery-ui.ftl"
+2020-10-19 02:36:47,437 DEBUG [pool-2-thread-1] cache:44 - "freemarker/libraries/datatables.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-19 02:36:47,437 DEBUG [pool-2-thread-1] cache:44 - Couldn't find template in cache for "freemarker/libraries/imgpreview.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-19 02:36:47,439 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/imgpreview_en_GB.ftl"): Not found
+2020-10-19 02:36:47,441 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/imgpreview_en.ftl"): Not found
+2020-10-19 02:36:47,442 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/libraries/imgpreview.ftl"): Found
+2020-10-19 02:36:47,442 DEBUG [pool-2-thread-1] cache:44 - Loading template for "freemarker/libraries/imgpreview.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/puven/.m2/repository/net/serenity-bdd/serenity-report-resources/2.0.91/serenity-report-resources-2.0.91.jar!/freemarker/libraries/imgpreview.ftl"
+2020-10-19 02:36:47,446 DEBUG [pool-2-thread-1] cache:44 - Couldn't find template in cache for "freemarker/components/report-data.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-19 02:36:47,448 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/components/report-data_en_GB.ftl"): Not found
+2020-10-19 02:36:47,450 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/components/report-data_en.ftl"): Not found
+2020-10-19 02:36:47,451 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/components/report-data.ftl"): Found
+2020-10-19 02:36:47,452 DEBUG [pool-2-thread-1] cache:44 - Loading template for "freemarker/components/report-data.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/puven/.m2/repository/net/serenity-bdd/serenity-report-resources/2.0.91/serenity-report-resources-2.0.91.jar!/freemarker/components/report-data.ftl"
+2020-10-19 02:36:47,457 DEBUG [pool-2-thread-1] cache:44 - Couldn't find template in cache for "freemarker/components/stacktrace.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-19 02:36:47,459 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/components/stacktrace_en_GB.ftl"): Not found
+2020-10-19 02:36:47,461 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/components/stacktrace_en.ftl"): Not found
+2020-10-19 02:36:47,462 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/components/stacktrace.ftl"): Found
+2020-10-19 02:36:47,463 DEBUG [pool-2-thread-1] cache:44 - Loading template for "freemarker/components/stacktrace.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/puven/.m2/repository/net/serenity-bdd/serenity-report-resources/2.0.91/serenity-report-resources-2.0.91.jar!/freemarker/components/stacktrace.ftl"
+2020-10-19 02:36:47,690 DEBUG [pool-2-thread-1] cache:44 - Couldn't find template in cache for "freemarker/menu.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-19 02:36:47,692 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/menu_en_GB.ftl"): Not found
+2020-10-19 02:36:47,694 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/menu_en.ftl"): Not found
+2020-10-19 02:36:47,695 DEBUG [pool-2-thread-1] cache:44 - TemplateLoader.findTemplateSource("freemarker/menu.ftl"): Found
+2020-10-19 02:36:47,696 DEBUG [pool-2-thread-1] cache:44 - Loading template for "freemarker/menu.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/puven/.m2/repository/net/serenity-bdd/serenity-report-resources/2.0.91/serenity-report-resources-2.0.91.jar!/freemarker/menu.ftl"
